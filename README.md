@@ -16,16 +16,7 @@ Here are some ideas to get you started:
 -->
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Choi-YeonJin&show_icons=true&theme=dracula)](https://github.com/Choi-YeonJin/github-readme-stats)
-
-  [![Tistory Badge](http://img.shields.io/badge/-Yjini%20blog-white?style=flat-square&logo=tistory&link=https://yjini.tistory.com/)](https://yjini.tistory.com/)
-	
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)
-	
-  [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/c/kyleschool)](https://www.youtube.com/c/kyleschool)
-	
-  [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/zzsza)](https://www.facebook.com/zzsza)
-	
-	
-  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:snugyun01@gmail.com)
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Choi-YeonJin&layout=compact)](https://github.com/Choi-YeonJin/github-readme-stats)
+  
+ [![Gamil Badge](http://img.shields.io/badge/-Gmail-informational?style=flat-square&logo=Gmail&link=mailto:cyh9721@gamil.com)](mailto:cyj9721@gmail.com)
