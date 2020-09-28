@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Choi-YeonJin&show_icons=true&theme=dracula)](https://github.com/Choi-YeonJin/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Choi-YeonJin&show_icons=true)](https://github.com/Choi-YeonJin/github-readme-stats)
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Choi-YeonJin&layout=compact)](https://github.com/Choi-YeonJin/github-readme-stats)
   
-##### 💬 Ask me about
+#### 💬 Ask me about
 - [![Gamil Badge](http://img.shields.io/badge/-Gmail-informational?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cyh9721@gamil.com)](mailto:cyj9721@gmail.com)
