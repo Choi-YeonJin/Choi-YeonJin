@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Choi-YeonJin&show_icons=true&theme=dracula)](https://github.com/Choi-YeonJin/github-readme-stats)
 
-  [![Tistory Badge](http://img.shields.io/badge/-Yjini%20blog-white?style=flat-square&logo=tistory&link=https://zzsza.github.io/)](https://zzsza.github.io/)
+  [![Tistory Badge](http://img.shields.io/badge/-Yjini%20blog-white?style=flat-square&logo=tistory&link=https://yjini.tistory.com/)](https://yjini.tistory.com/)
 	
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)
 	
