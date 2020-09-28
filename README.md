@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Choi-YeonJin&layout=compact)](https://github.com/Choi-YeonJin/github-readme-stats)
   
 - 💬 Ask me about
- - [![Gamil Badge](http://img.shields.io/badge/-Gmail-informational?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cyh9721@gamil.com)](mailto:cyj9721@gmail.com)
+- [![Gamil Badge](http://img.shields.io/badge/-Gmail-informational?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cyh9721@gamil.com)](mailto:cyj9721@gmail.com)
