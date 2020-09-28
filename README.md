@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Choi-YeonJin&show_icons=true)]
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Choi-YeonJin&show_icons=true)](https://github.com/Choi-YeonJin/github-readme-stats)
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Choi-YeonJin&layout=compact)](https://github.com/Choi-YeonJin/github-readme-stats)
   
