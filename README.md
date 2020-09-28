@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Choi-YeonJin&show_icons=true)](#)
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Choi-YeonJin&layout=compact)](#)
+// [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Choi-YeonJin&layout=compact)](#)
   
 ### 🔭 I’m currently working on ...
 - PHP
