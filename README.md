@@ -1,4 +1,4 @@
-# Hi there 👋 Welcom to Choi-YeonJin Github
+# Hi there 👋 Welcom!
 
 <!--
 **Choi-YeonJin/Choi-YeonJin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
