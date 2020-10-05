@@ -32,4 +32,4 @@ Here are some ideas to get you started:
 
 
 #### 💬 Ask me about
-- [![Gamil Badge](http://img.shields.io/badge/-Gmail-informational?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cyh9721@gamil.com)](mailto:cyj9721@gmail.com)
+- [![Gamil Badge](http://img.shields.io/badge/-Gmail-informational?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cyj9721@gamil.com)](mailto:cyj9721@gmail.com)
