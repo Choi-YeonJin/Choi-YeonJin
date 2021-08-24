@@ -21,9 +21,10 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Choi-YeonJin&layout=compact)](#)-->
   
 ### 🔭 I’m currently working on ...
+- Node js
 - PHP
 - [Android]Kotlin
-- [Android]Java
+- [IOS]Swift
 
 ### 🌱 I’m currently learning ...
 - Node js
