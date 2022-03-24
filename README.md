@@ -22,13 +22,12 @@ Here are some ideas to get you started:
   
 ### 🔭 I’m currently working on ...
 - Node js
-- PHP
 - [Android]Kotlin
 - [IOS]Swift
 
 ### 🌱 I’m currently learning ...
 - Node js
-- TypeScript
+  - TypeScript
 - Nest js
 
 
